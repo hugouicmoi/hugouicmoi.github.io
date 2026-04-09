@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 319.6 319.6">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        stroke: coral;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        stroke: #f2c1b1;
+        stroke-width: 5px;
+      }
+
+      .cls-4 {
+        fill: #704a3f;
+        opacity: .6;
+      }
+
+      .cls-5 {
+        opacity: .7;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-29" data-name="Calque 1-29">
+    <circle class="cls-3" cx="159.8" cy="160.6" r="148.82"/>
+  </g>
+  <g id="Calque_2-29" data-name="Calque 2-29">
+    <path class="cls-4" d="M226.81,41.52c-.5,16.6-14.3,29.6-30.9,29.2-16.6-.5-29.6-14.3-29.2-30.9.5-16.5,14.3-29.6,30.9-29.1,16.6.5,29.6,14.3,29.2,30.8h0Z"/>
+    <path class="cls-4" d="M312.91,45.12c-.5,16.6-14.3,29.6-30.9,29.2-16.5-.5-29.6-14.3-29.1-30.9.5-16.5,14.3-29.6,30.8-29.1,16.6.5,29.6,14.3,29.2,30.8h0Z"/>
+    <path class="cls-5" d="M228.51,40.22c9.2-6.2,13.1-10.7,24.4,3.2"/>
+    <line class="cls-2" x1="142.31" y1="32.22" x2="165.11" y2="40.22"/>
+    <line class="cls-1" x1="288.51" y1="40.02" x2="311.31" y2="48.12"/>
+  </g>
+</svg>

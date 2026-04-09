@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 319.6 319.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e694c2;
+      }
+
+      .cls-2 {
+        fill: #f3d0e8;
+      }
+
+      .cls-3 {
+        fill: #9b4c9d;
+      }
+
+      .cls-4 {
+        fill: #ee3928;
+      }
+
+      .cls-5 {
+        fill: #cc94c5;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #eacde7;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-7 {
+        fill: #f6adaa;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-21" data-name="Calque 1-21">
+    <circle class="cls-6" cx="159.8" cy="164.5" r="148.82"/>
+  </g>
+  <g id="Calque_2-21" data-name="Calque 2-21">
+    <ellipse class="cls-5" cx="218.5" cy="259.9" rx="39.9" ry="52"/>
+    <polygon class="cls-3" points="256.5 244.6 180.7 244.6 184.6 233.1 251.7 232 256.5 244.6"/>
+    <polygon class="cls-3" points="256.7 271.2 180.2 271.3 179.3 257.7 257.7 257.8 256.7 271.2"/>
+    <polygon class="cls-3" points="246.5 295.7 190.8 296.3 185.3 287.1 251.9 286.8 246.5 295.7"/>
+    <ellipse class="cls-7" cx="274.2" cy="244.6" rx="39.9" ry="52"/>
+    <circle class="cls-4" cx="263.9" cy="209.8" r="7.4"/>
+    <circle class="cls-4" cx="298.2" cy="222.6" r="7.4"/>
+    <path class="cls-4" d="M312.2,257.2l-1.1,7.3h0c-4-.6-6.7-4.5-6.1-8.5.6-4,4.5-6.7,8.5-6.1l-1.2,7.3h-.1Z"/>
+    <circle class="cls-4" cx="285.6" cy="277" r="8.2"/>
+    <circle class="cls-4" cx="271.3" cy="243.8" r="9"/>
+    <circle class="cls-4" cx="253.8" cy="274.8" r="7.4"/>
+    <ellipse class="cls-1" cx="236.54" cy="207.05" rx="39.9" ry="52.1" transform="translate(-61.75 107.84) rotate(-22.8)"/>
+    <polygon class="cls-2" points="269.9 186 195.6 186.3 197.7 179.4 266 179.9 269.9 186"/>
+    <polygon class="cls-2" points="198.4 220.9 274.4 196.1 271.6 189.2 196.1 213.7 198.4 220.9"/>
+    <polygon class="cls-2" points="274.6 236.6 206.7 236.9 202.8 230.5 276.5 230.8 274.6 236.6"/>
+  </g>
+</svg>
